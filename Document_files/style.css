@@ -1,0 +1,39 @@
+p {
+   color: red; 
+}
+
+body{
+   background-image: url(dog-puppy.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.container {
+  background-color: blue; 
+  box-shadow: 3px 3px 5px white;
+}
+
+h1 {
+   color: white;
+   text-shadow: 1px 1px 2px crimson;
+}
+
+h2 {
+   color: darkseagreen;
+   text-shadow: dimgrey;
+}
+
+.boarderImg{
+   border: 6px solid red;
+}
+
+ul li{
+   color: white;
+   font-size: 20px;
+}
+
+ul > li {
+   color: thistle;
+}
+
+
